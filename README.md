@@ -52,3 +52,6 @@ git clone https://github.com/alexanmich/Seido-Karate-REST-api-Springboot.git
 4) /random/{grade}
 
 <img width="1042" alt="random-screenshot" src="images/random.png">
+
+## Notes
+This project does not connect to a database but instead has a mock repositrory (KataRepository.jar)
